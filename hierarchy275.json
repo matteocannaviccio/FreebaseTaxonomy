@@ -1,0 +1,859 @@
+{
+  "name": "/common/topic", 
+  "children": [
+   {
+    "name": "/protected_sites/site_listing_category"
+   }, 
+   {
+    "name": "/music/producer"
+   }, 
+   {
+    "name": "/people/profession"
+   }, 
+   {
+    "name": "/fictional_universe/fictional_employer"
+   }, 
+   {
+    "name": "/business/consumer_product"
+   }, 
+   {
+    "name": "/book/book_subject"
+   }, 
+   {
+    "name": "/amusement_parks/ride"
+   }, 
+   {
+    "name": "/time/event", 
+    "children": [
+     {
+      "name": "/award/award_ceremony"
+     }, 
+     {
+      "name": "/law/legal_case"
+     }, 
+     {
+      "name": "/olympics/olympic_games"
+     }, 
+     {
+      "name": "/spaceflight/space_mission"
+     }, 
+     {
+      "name": "/military/military_conflict"
+     }
+    ]
+   }, 
+   {
+    "name": "/aviation/aircraft_owner"
+   }, 
+   {
+    "name": "/business/sponsored_recipient"
+   }, 
+   {
+    "name": "/film/music_contributor"
+   }, 
+   {
+    "name": "/business/brand"
+   }, 
+   {
+    "name": "/cvg/computer_videogame"
+   }, 
+   {
+    "name": "/music/release"
+   }, 
+   {
+    "name": "/language/human_language"
+   }, 
+   {
+    "name": "/award/award_nominated_work"
+   }, 
+   {
+    "name": "/organization/organization_scope"
+   }, 
+   {
+    "name": "/visual_art/art_period_movement"
+   }, 
+   {
+    "name": "/music/lyricist"
+   }, 
+   {
+    "name": "/broadcast/broadcast", 
+    "children": [
+     {
+      "name": "/broadcast/radio_station"
+     }, 
+     {
+      "name": "/broadcast/tv_station"
+     }
+    ]
+   }, 
+   {
+    "name": "/organization/organization_member"
+   }, 
+   {
+    "name": "/book/periodical", 
+    "children": [
+     {
+      "name": "/book/newspaper"
+     }
+    ]
+   }, 
+   {
+    "name": "/metropolitan_transit/transit_line"
+   }, 
+   {
+    "name": "/business/job_title"
+   }, 
+   {
+    "name": "/time/time_zone"
+   }, 
+   {
+    "name": "/music/album"
+   }, 
+   {
+    "name": "/biology/organism_classification"
+   }, 
+   {
+    "name": "/film/person_or_entity_appearing_in_film"
+   }, 
+   {
+    "name": "/sports/sports_award_winner"
+   }, 
+   {
+    "name": "/business/industry"
+   }, 
+   {
+    "name": "/award/award_winning_work"
+   }, 
+   {
+    "name": "/tennis/tennis_tournament"
+   }, 
+   {
+    "name": "/people/person", 
+    "children": [
+     {
+      "name": "/royalty/noble_person", 
+      "children": [
+       {
+        "name": "/royalty/monarch"
+       }
+      ]
+     }, 
+     {
+      "name": "/tennis/tennis_tournament_champion"
+     }, 
+     {
+      "name": "/architecture/architect"
+     }, 
+     {
+      "name": "/film/cinematographer"
+     }, 
+     {
+      "name": "/american_football/football_coach"
+     }, 
+     {
+      "name": "/government/politician"
+     }, 
+     {
+      "name": "/sports/pro_athlete", 
+      "children": [
+       {
+        "name": "/sports/tournament_event_competitor"
+       }, 
+       {
+        "name": "/american_football/football_player"
+       }, 
+       {
+        "name": "/olympics/olympic_athlete"
+       }, 
+       {
+        "name": "/sports/drafted_athlete"
+       }, 
+       {
+        "name": "/soccer/football_player"
+       }, 
+       {
+        "name": "/basketball/basketball_player"
+       }
+      ]
+     }, 
+     {
+      "name": "/law/inventor"
+     }, 
+     {
+      "name": "/film/producer"
+     }, 
+     {
+      "name": "/theater/theatrical_composer"
+     }, 
+     {
+      "name": "/tv/tv_writer"
+     }, 
+     {
+      "name": "/theater/theatrical_lyricist"
+     }, 
+     {
+      "name": "/military/military_commander"
+     }, 
+     {
+      "name": "/film/editor"
+     }, 
+     {
+      "name": "/music/group_member"
+     }, 
+     {
+      "name": "/people/deceased_person"
+     }, 
+     {
+      "name": "/comic_books/comic_book_creator"
+     }, 
+     {
+      "name": "/theater/theater_actor"
+     }, 
+     {
+      "name": "/film/actor"
+     }, 
+     {
+      "name": "/book/author"
+     }, 
+     {
+      "name": "/business/board_member"
+     }, 
+     {
+      "name": "/visual_art/visual_artist"
+     }, 
+     {
+      "name": "/tv/tv_actor"
+     }, 
+     {
+      "name": "/people/family_member"
+     }, 
+     {
+      "name": "/fictional_universe/fictional_character_creator"
+     }, 
+     {
+      "name": "/film/writer"
+     }, 
+     {
+      "name": "/spaceflight/astronaut"
+     }, 
+     {
+      "name": "/book/periodical_editor"
+     }, 
+     {
+      "name": "/military/military_person"
+     }, 
+     {
+      "name": "/medicine/notable_person_with_medical_condition"
+     }, 
+     {
+      "name": "/sports/sports_team_captain"
+     }, 
+     {
+      "name": "/soccer/football_team_manager"
+     }, 
+     {
+      "name": "/education/academic"
+     }, 
+     {
+      "name": "/film/director"
+     }, 
+     {
+      "name": "/film/film_crewmember"
+     }
+    ]
+   }, 
+   {
+    "name": "/cvg/cvg_developer"
+   }, 
+   {
+    "name": "/music/composer"
+   }, 
+   {
+    "name": "/book/literary_series"
+   }, 
+   {
+    "name": "/award/hall_of_fame_inductee"
+   }, 
+   {
+    "name": "/award/hall_of_fame"
+   }, 
+   {
+    "name": "/food/food"
+   }, 
+   {
+    "name": "/film/film_distributor"
+   }, 
+   {
+    "name": "/people/family", 
+    "children": [
+     {
+      "name": "/royalty/royal_line"
+     }
+    ]
+   }, 
+   {
+    "name": "/protected_sites/natural_or_cultural_site_designation"
+   }, 
+   {
+    "name": "/music/performance_role", 
+    "children": [
+     {
+      "name": "/music/instrument"
+     }
+    ]
+   }, 
+   {
+    "name": "/language/language_family"
+   }, 
+   {
+    "name": "/biology/animal_breed"
+   }, 
+   {
+    "name": "/tv/tv_program"
+   }, 
+   {
+    "name": "/sports/sports_team", 
+    "children": [
+     {
+      "name": "/american_football/football_team"
+     }, 
+     {
+      "name": "/basketball/basketball_team"
+     }, 
+     {
+      "name": "/soccer/football_team"
+     }, 
+     {
+      "name": "/sports/professional_sports_team"
+     }
+    ]
+   }, 
+   {
+    "name": "/education/educational_degree"
+   }, 
+   {
+    "name": "/people/ethnicity"
+   }, 
+   {
+    "name": "/medicine/disease"
+   }, 
+   {
+    "name": "/education/field_of_study"
+   }, 
+   {
+    "name": "/fictional_universe/character_species"
+   }, 
+   {
+    "name": "/architecture/architectural_structure_owner"
+   }, 
+   {
+    "name": "/tv/tv_genre"
+   }, 
+   {
+    "name": "/award/ranked_item"
+   }, 
+   {
+    "name": "/government/government_office_or_title"
+   }, 
+   {
+    "name": "/symbols/name_source"
+   }, 
+   {
+    "name": "/fictional_universe/fictional_character", 
+    "children": [
+     {
+      "name": "/tv/tv_character"
+     }, 
+     {
+      "name": "/cvg/game_character"
+     }, 
+     {
+      "name": "/film/film_character"
+     }, 
+     {
+      "name": "/theater/theater_character"
+     }, 
+     {
+      "name": "/book/book_character"
+     }
+    ]
+   }, 
+   {
+    "name": "/cvg/cvg_genre"
+   }, 
+   {
+    "name": "/award/award_winner"
+   }, 
+   {
+    "name": "/finance/currency"
+   }, 
+   {
+    "name": "/award/ranked_list"
+   }, 
+   {
+    "name": "/internet/website_owner"
+   }, 
+   {
+    "name": "/film/film_festival"
+   }, 
+   {
+    "name": "/film/film"
+   }, 
+   {
+    "name": "/internet/website"
+   }, 
+   {
+    "name": "/automotive/make"
+   }, 
+   {
+    "name": "/biology/organism"
+   }, 
+   {
+    "name": "/film/film_subject"
+   }, 
+   {
+    "name": "/organization/organization_founder"
+   }, 
+   {
+    "name": "/people/cause_of_death"
+   }, 
+   {
+    "name": "/film/film_genre"
+   }, 
+   {
+    "name": "/medicine/drug_ingredient"
+   }, 
+   {
+    "name": "/business/employer", 
+    "children": [
+     {
+      "name": "/sports/sports_league"
+     }, 
+     {
+      "name": "/business/business_location"
+     }, 
+     {
+      "name": "/government/political_party"
+     }, 
+     {
+      "name": "/education/educational_institution", 
+      "children": [
+       {
+        "name": "/education/school"
+       }
+      ]
+     }
+    ]
+   }, 
+   {
+    "name": "/royalty/noble_title"
+   }, 
+   {
+    "name": "/comic_books/comic_book_series"
+   }, 
+   {
+    "name": "/visual_art/artwork"
+   }, 
+   {
+    "name": "/film/film_distribution_medium"
+   }, 
+   {
+    "name": "/broadcast/radio_station_owner"
+   }, 
+   {
+    "name": "/opera/librettist"
+   }, 
+   {
+    "name": "/military/military_combatant"
+   }, 
+   {
+    "name": "/cvg/game_series"
+   }, 
+   {
+    "name": "/protected_sites/listed_site"
+   }, 
+   {
+    "name": "/architecture/architectural_style"
+   }, 
+   {
+    "name": "/automotive/automotive_class"
+   }, 
+   {
+    "name": "/music/conductor"
+   }, 
+   {
+    "name": "/computer/operating_system"
+   }, 
+   {
+    "name": "/law/invention"
+   }, 
+   {
+    "name": "/film/film_story_contributor"
+   }, 
+   {
+    "name": "/royalty/kingdom"
+   }, 
+   {
+    "name": "/film/production_company"
+   }, 
+   {
+    "name": "/award/award_nominee"
+   }, 
+   {
+    "name": "/music/genre"
+   }, 
+   {
+    "name": "/medicine/medical_treatment"
+   }, 
+   {
+    "name": "/meteorology/tropical_cyclone"
+   }, 
+   {
+    "name": "/award/award_presenting_organization"
+   }, 
+   {
+    "name": "/olympics/olympic_sport"
+   }, 
+   {
+    "name": "/music/recording"
+   }, 
+   {
+    "name": "/fictional_universe/fictional_setting"
+   }, 
+   {
+    "name": "/award/award_category"
+   }, 
+   {
+    "name": "/soccer/football_league"
+   }, 
+   {
+    "name": "/location/location", 
+    "children": [
+     {
+      "name": "/aviation/airport"
+     }, 
+     {
+      "name": "/architecture/structure", 
+      "children": [
+       {
+        "name": "/medicine/hospital"
+       }, 
+       {
+        "name": "/transportation/bridge"
+       }, 
+       {
+        "name": "/sports/sports_facility"
+       }
+      ]
+     }, 
+     {
+      "name": "/education/educational_institution_campus"
+     }, 
+     {
+      "name": "/periodicals/newspaper_circulation_area"
+     }, 
+     {
+      "name": "/location/place_with_neighborhoods"
+     }, 
+     {
+      "name": "/travel/tourist_attraction", 
+      "children": [
+       {
+        "name": "/architecture/museum"
+       }, 
+       {
+        "name": "/amusement_parks/park"
+       }
+      ]
+     }, 
+     {
+      "name": "/meteorology/cyclone_affected_area"
+     }, 
+     {
+      "name": "/business/shopping_center"
+     }, 
+     {
+      "name": "/location/capital_of_administrative_division"
+     }, 
+     {
+      "name": "/geography/mountain"
+     }, 
+     {
+      "name": "/geography/mountain_range"
+     }, 
+     {
+      "name": "/location/neighborhood"
+     }, 
+     {
+      "name": "/people/place_of_interment"
+     }, 
+     {
+      "name": "/government/political_district"
+     }, 
+     {
+      "name": "/government/governmental_jurisdiction"
+     }, 
+     {
+      "name": "/biology/breed_origin"
+     }, 
+     {
+      "name": "/protected_sites/protected_site"
+     }, 
+     {
+      "name": "/metropolitan_transit/transit_stop"
+     }, 
+     {
+      "name": "/location/statistical_region", 
+      "children": [
+       {
+        "name": "/location/country"
+       }, 
+       {
+        "name": "/location/administrative_division", 
+        "children": [
+         {
+          "name": "/location/us_county"
+         }
+        ]
+       }, 
+       {
+        "name": "/location/us_county"
+       }
+      ]
+     }, 
+     {
+      "name": "/transportation/road"
+     }, 
+     {
+      "name": "/geography/body_of_water", 
+      "children": [
+       {
+        "name": "/geography/lake"
+       }, 
+       {
+        "name": "/geography/river"
+       }
+      ]
+     }, 
+     {
+      "name": "/location/hud_county_place"
+     }, 
+     {
+      "name": "/geography/island"
+     }, 
+     {
+      "name": "/geography/island_group"
+     }, 
+     {
+      "name": "/travel/travel_destination"
+     }, 
+     {
+      "name": "/sports/sports_team_location"
+     }
+    ]
+   }, 
+   {
+    "name": "/sports/sport"
+   }, 
+   {
+    "name": "/book/newspaper_owner"
+   }, 
+   {
+    "name": "/book/written_work", 
+    "children": [
+     {
+      "name": "/theater/play"
+     }, 
+     {
+      "name": "/book/book"
+     }
+    ]
+   }, 
+   {
+    "name": "/government/political_appointer"
+   }, 
+   {
+    "name": "/organization/organization_sector"
+   }, 
+   {
+    "name": "/fictional_universe/fictional_universe"
+   }, 
+   {
+    "name": "/broadcast/tv_station_owner"
+   }, 
+   {
+    "name": "/government/government_office_category"
+   }, 
+   {
+    "name": "/influence/influence_node"
+   }, 
+   {
+    "name": "/celebrities/celebrity"
+   }, 
+   {
+    "name": "/food/nutrient"
+   }, 
+   {
+    "name": "/computer/programming_language"
+   }, 
+   {
+    "name": "/law/court"
+   }, 
+   {
+    "name": "/sports/sports_award_type"
+   }, 
+   {
+    "name": "/business/sponsor"
+   }, 
+   {
+    "name": "/organization/organization", 
+    "children": [
+     {
+      "name": "/organization/membership_organization"
+     }, 
+     {
+      "name": "/sports/sports_league"
+     }, 
+     {
+      "name": "/government/political_party"
+     }, 
+     {
+      "name": "/spaceflight/space_agency"
+     }, 
+     {
+      "name": "/education/educational_institution", 
+      "children": [
+       {
+        "name": "/education/school"
+       }
+      ]
+     }, 
+     {
+      "name": "/business/business_operation", 
+      "children": [
+       {
+        "name": "/cvg/cvg_publisher"
+       }, 
+       {
+        "name": "/aviation/aircraft_manufacturer"
+       }, 
+       {
+        "name": "/business/consumer_company"
+       }, 
+       {
+        "name": "/venture_capital/venture_funded_company"
+       }, 
+       {
+        "name": "/music/record_label"
+       }, 
+       {
+        "name": "/aviation/airline"
+       }
+      ]
+     }, 
+     {
+      "name": "/protected_sites/governing_body_of_protected_sites"
+     }, 
+     {
+      "name": "/military/armed_force"
+     }, 
+     {
+      "name": "/government/government_agency"
+     }, 
+     {
+      "name": "/education/school_district"
+     }
+    ]
+   }, 
+   {
+    "name": "/automotive/model"
+   }, 
+   {
+    "name": "/aviation/aircraft_model"
+   }, 
+   {
+    "name": "/music/artist", 
+    "children": [
+     {
+      "name": "/music/musical_group", 
+      "children": [
+       {
+        "name": "/music/conducted_ensemble"
+       }
+      ]
+     }
+    ]
+   }, 
+   {
+    "name": "/government/governmental_body"
+   }, 
+   {
+    "name": "/fictional_universe/fictional_organization"
+   }, 
+   {
+    "name": "/basketball/basketball_position"
+   }, 
+   {
+    "name": "/medicine/drug"
+   }, 
+   {
+    "name": "/olympics/olympic_medal"
+   }, 
+   {
+    "name": "/venture_capital/venture_investor"
+   }, 
+   {
+    "name": "/award/award"
+   }, 
+   {
+    "name": "/olympics/olympic_participating_country"
+   }, 
+   {
+    "name": "/comic_books/comic_book_publisher"
+   }, 
+   {
+    "name": "/tv/tv_network"
+   }, 
+   {
+    "name": "/book/periodical_publisher"
+   }, 
+   {
+    "name": "/cvg/cvg_designer"
+   }, 
+   {
+    "name": "/symbols/namesake"
+   }, 
+   {
+    "name": "/sports/sports_position"
+   }, 
+   {
+    "name": "/religion/religion"
+   }, 
+   {
+    "name": "/tv/tv_program_creator"
+   }, 
+   {
+    "name": "/sports/sport_country"
+   }, 
+   {
+    "name": "/comic_books/comic_book_character"
+   }, 
+   {
+    "name": "/music/composition", 
+    "children": [
+     {
+      "name": "/opera/opera"
+     }
+    ]
+   }, 
+   {
+    "name": "/tv/tv_producer"
+   }, 
+   {
+    "name": "/film/film_location"
+   }, 
+   {
+    "name": "/tv/tv_personality"
+   }
+  ]
+ }
